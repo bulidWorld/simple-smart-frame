@@ -1,0 +1,15 @@
+{
+  "export":[
+    {
+      "id":"TEST_EXPORT",
+      "title": "test-Title",
+      "sql":"select * from tbl_test where age > ?",
+      "paramNames":["age"],
+      "columNames":["col1","col2","col3"],
+      "VOName":"org.zwx.vo.Test"
+    },
+    {
+
+    }
+  ]
+}

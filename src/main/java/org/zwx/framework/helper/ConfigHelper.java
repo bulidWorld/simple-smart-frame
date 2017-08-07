@@ -16,4 +16,9 @@ public class ConfigHelper {
         //TODO
         return null;
     }
+
+    //自定义jsp文件的路径吗？？？
+    public static String getAppJspPath() {
+        return "";
+    }
 }

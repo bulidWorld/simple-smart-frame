@@ -1,4 +1,4 @@
-package proxy;
+package proxy.dynamic;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 

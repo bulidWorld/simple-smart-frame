@@ -1,6 +1,8 @@
-package proxy;
+package proxy.dynamic;
 
 import org.testng.annotations.Test;
+import proxy.spring.HelloImp;
+import proxy.HelloWorld;
 
 import java.lang.reflect.Proxy;
 
